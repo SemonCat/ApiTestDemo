@@ -1,0 +1,5 @@
+{
+  "karateRunner.editor.inlineCompletion": true,
+  "karateRunner.tests.toTargetByGlob": "**/api_test/**/*.feature",
+  "karateRunner.karateJar.commandLineArgs": "jbang run --cp=api_test -m=com.intuit.karate.Main karate@karatelabs api_test"
+}
